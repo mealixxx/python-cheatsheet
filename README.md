@@ -3586,3 +3586,4 @@ Index
 * **Click on the title's `'🔗'` to get a link to its section.**
 Изменение от branch1 - коммит 1
 Изменение от branch1 - коммит 2
+Изменение от branch1 - коммит 3
